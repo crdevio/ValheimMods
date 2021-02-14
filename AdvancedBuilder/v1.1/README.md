@@ -9,7 +9,7 @@ There is an installation guide on the discord support step by step but in some w
 **If you got any issue it means that the game has been updated but the mode not yet, no worry, just check your files on steam, i'll debug everything**
 
 # WHAT'S NEW ?
-[*] `ab showradius [radius] - Make all your props in the radius blue.`
-[*] `ab hideradius - Regive the normal color to all your props in the radius.`
-[*] `ab debuild [radius] - Remove all YOUR props in the radius [radius].`
-[*] **FIXED** : Offset location doesn't working
+-`ab showradius [radius] - Make all your props in the radius blue.`
+- `ab hideradius - Regive the normal color to all your props in the radius.`
+- `ab debuild [radius] - Remove all YOUR props in the radius [radius].`
+- **FIXED** : Offset location doesn't working
