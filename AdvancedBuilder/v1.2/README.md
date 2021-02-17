@@ -14,7 +14,7 @@ Soon (new method using a mod loader)
 - **AUTO-TERRAFORMING ON LOAD AND DESTROY**
 - Using our new mod loader
 - Added to NexusMods **with a vbuild category on NexusMods**
-- Fix issues with the build past
+- Fix issues with the build past (if one file don't convert, use `convertor.py` which is in the gist
 - Modify the share command
 - Rename of `ab builds` to `ab buildlist`
 - Working with 0.145.6
