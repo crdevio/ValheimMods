@@ -1,4 +1,4 @@
-# AdvancedBuilder v1.1 (OUT OF DATE - USE IT FOR VALHEIM 0.145.5 NOT .6 ETC
+# AdvancedBuilder v1.1 (USE 1.2)
 This mod allow you to copy and paste build from worlds to other worlds and servers to other servers.
 
 # How to use ?
