@@ -9,8 +9,9 @@ This mod allow you to copy and paste build from worlds to other worlds and serve
 
 
 # How to install ? 
-Soon (new method using a mod loader)
-
+Follow the youtube tutorial right there : https://www.youtube.com/watch?v=JrXT3UeZX4o&lc=Ugx5rEaJ6L54ZkIsGwx4AaABAg
+You can download the mod loader here : https://github.com/PJninja/InSlimVML
+You can download the mod from this github or from Nexus Mods : https://www.nexusmods.com/valheim/mods/5/
 # WHAT'S NEW ?
 - **AUTO-TERRAFORMING ON LOAD AND DESTROY**
 - Using our new mod loader
