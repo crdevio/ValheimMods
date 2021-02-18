@@ -5,7 +5,7 @@ This mod allow you to copy and paste build from worlds to other worlds and serve
 * Youtube tutorial : https://www.youtube.com/watch?v=JrXT3UeZX4o&lc=Ugx5rEaJ6L54ZkIsGwx4AaABAg
 * Steam guide : https://steamcommunity.com/sharedfiles/filedetails/?id=2394621584
 * Discord support (with guide) : https://discord.gg/Eb7sFEeGfU
-* **You'll need the mod loader :**https://github.com/PJninja/InSlimVML
+* **You'll need the mod loader** :https://github.com/PJninja/InSlimVML
 
 
 # How to install ? 
