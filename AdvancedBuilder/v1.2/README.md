@@ -5,6 +5,6 @@ This mod allow you to copy and paste build from worlds to other worlds and serve
 
 * Incorrect build format fixed.
 
-#V 1.2 (previous)
+# V1.2 (previous)
 
 * See in the readme from its folder
