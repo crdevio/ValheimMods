@@ -1,4 +1,4 @@
-# Valheim Terraformer 1.0
+# Valheim Terrainmaster v1.0
 Use it with AdvancedBuilding to unleash its power !
 
 > **Join the support to get helped**
