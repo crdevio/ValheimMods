@@ -1,3 +1,6 @@
+# WARNING
+PLEASE USE BUILDSHARE (= v1.4)
+
 # CHANGELOG:
 	+ Added: ab undo : removes last placed building
 	+ Added ab buildhelp : Displays more Text and examples of using ab build command
