@@ -17,3 +17,4 @@ It's the new version of AdvancedBuilding (which is now deprecated).
 + NEW : UI FOR A BETTER USE !
 + Compatible with actual Valheim versions and next version.
 + PATCHED : a glitch which didn't save your offsets when you reload your worlds
++ bs preview - Preview your builds ! 
